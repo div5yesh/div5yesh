@@ -2,6 +2,9 @@
 
 Looking for a project to just fiddle with? Take a look at the following projects.
 
+### Amplify
+- [Create Amplify Andriod project](https://github.com/div5yesh/bootstrap-amplifyandroid)
+
 ### Robotics
 - [Collaboration in a Human Robot Population](https://github.com/div5yesh/human-robot-population-collab)
 
