@@ -9,6 +9,7 @@ Looking for a project to just fiddle with? Take a look at the following projects
 - [Collaboration in a Human Robot Population](https://github.com/div5yesh/human-robot-population-collab)
 
 ### AI/ML
+- [Generating fMRI Images of Neural Activations using Ranked Voxel Mask and Volumetric Conditional GAN](https://github.com/div5yesh/nouns-fmri-activations)
 - [Semantic Feature Extraction with BERT embeddings & McRae features](https://github.com/div5yesh/semantic-feature-extraction)
 - [Starter NLP Algorithms](https://github.com/div5yesh/natural-language-processing)
 - [Starter ML Algorithms](https://github.com/div5yesh/machine-learning)
