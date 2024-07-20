@@ -21,6 +21,7 @@ Looking for a project to just fiddle with? Take a look at the following projects
 
 ## Productivity
 - [Trello2Obsidian](https://github.com/div5yesh/trello2obsidian)
+- [Obsidian Habit Tracker](https://github.com/div5yesh/obsidian-habit-tracker)
 
 ### Misc
 - [MIPS Instruction Set Simulator](https://github.com/div5yesh/mips-simulation)
