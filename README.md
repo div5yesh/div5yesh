@@ -19,11 +19,13 @@ Looking for a project to just fiddle with? Take a look at the following projects
 ### Game
 - [Multiplayer 8 Ball Pool in Unity3D](https://github.com/div5yesh/8ballpool)
 
+## Productivity
+- [Trello2Obsidian](https://github.com/div5yesh/trello2obsidian)
+
 ### Misc
 - [MIPS Instruction Set Simulator](https://github.com/div5yesh/mips-simulation)
 - [Distributed System with Load Balancing & Service Discovery](https://github.com/div5yesh/distributed-system)
 - [Gesture Recognition using OpenCV](https://github.com/div5yesh/snapgest)
-- [Trello2Obsidian](https://github.com/div5yesh/trello2obsidian)
 
 <!--
 **div5yesh/div5yesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
